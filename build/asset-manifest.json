@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4e66829c.css",
+    "main.js": "/static/js/main.e78105c9.js",
+    "static/js/787.201e8a69.chunk.js": "/static/js/787.201e8a69.chunk.js",
+    "static/media/banner2.jpg": "/static/media/banner2.740fb82bc2e386d2423e.jpg",
+    "static/media/slider2.jpg": "/static/media/slider2.4c1d4124e0bc3711878b.jpg",
+    "static/media/slider3.jpg": "/static/media/slider3.0ab94eb3974a117f9242.jpg",
+    "static/media/slider1.jpg": "/static/media/slider1.f949bbda65295082e1bc.jpg",
+    "static/media/banner1.webp": "/static/media/banner1.0ad8aa56292abf72a6fe.webp",
+    "static/media/banner3.webp": "/static/media/banner3.fc37ef2ac79a471aa594.webp",
+    "static/media/Nourish-The-promise-of-nutition-min.webp": "/static/media/Nourish-The-promise-of-nutition-min.1485c34a51ed212cc857.webp",
+    "static/media/category.webp": "/static/media/category.6013aaf83a7ebc2b4263.webp",
+    "static/media/logo.png": "/static/media/logo.99c3b573f9135a6455c4.png",
+    "static/media/onceupon.jpg": "/static/media/onceupon.3d3edd430c18229a9000.jpg",
+    "static/media/bestselling.webp": "/static/media/bestselling.3e864805763bd5f277e0.webp",
+    "index.html": "/index.html",
+    "main.4e66829c.css.map": "/static/css/main.4e66829c.css.map",
+    "main.e78105c9.js.map": "/static/js/main.e78105c9.js.map",
+    "787.201e8a69.chunk.js.map": "/static/js/787.201e8a69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e66829c.css",
+    "static/js/main.e78105c9.js"
+  ]
+}
